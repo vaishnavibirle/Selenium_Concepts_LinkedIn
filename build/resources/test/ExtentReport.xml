@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LinkedIn Application Test Automation Test Suite">
+
+    <listeners>
+        <listener class-name="com.blz.selenium.utility.listeners.ExtentReporterNG" />
+    </listeners>
+
+    <test name="LinkedIn Test">
+        <classes>
+            <class name="com.blz.selenium.base.BaseClass"></class>
+            <class name="com.blz.selenium.pages.Login"></class>
+            <class name="com.blz.selenium.test.DataDrivenTest"></class>
+
+        </classes>
+    </test>
+</suite>

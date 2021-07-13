@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.DataDrivenTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-12T12:51:42" hostname="LAPTOP-GG01EQKS" time="41.998">
+  <properties/>
+  <testcase name="LoginTest[0](vaishnavibirle1133@gmail.com, vaishnavi@123, valid)" classname="com.blz.selenium.test.DataDrivenTest" time="14.319"/>
+  <testcase name="LoginTest[1](vaishnavibirle1133@gmail.com, vaishnavi@1234, invalid)" classname="com.blz.selenium.test.DataDrivenTest" time="6.941"/>
+  <testcase name="LoginTest[2](vaishnavibirle1133@gmail.com, vaishnavi@123, valid)" classname="com.blz.selenium.test.DataDrivenTest" time="11.776"/>
+  <testcase name="LoginTest[3](vaishnavi@com.gmail, vaishn@1234, invalid)" classname="com.blz.selenium.test.DataDrivenTest" time="7.372"/>
+  <system-out><![CDATA[Number of rows : 5
+Number of columns : 3
+vaishnavibirle1133@gmail.com | vaishnavi@123 | valid | 
+vaishnavibirle1133@gmail.com | vaishnavi@1234 | invalid | 
+vaishnavibirle1133@gmail.com | vaishnavi@123 | valid | 
+vaishnavi@com.gmail | vaishn@1234 | invalid | 
+[INFO ] 2021-07-12 18:21:42.098 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-12 18:21:42.155 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-12 18:21:44.284 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-12 18:21:44.387 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-12 18:21:46.474 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-12 18:21:54.128 [Test worker] Log - Clicking on me button
+[INFO ] 2021-07-12 18:21:54.239 [Test worker] Log - Clicking on sign out button
+Method passed LoginTest
+[INFO ] 2021-07-12 18:21:56.663 [Test worker] Log - Test is passed
+[INFO ] 2021-07-12 18:21:56.944 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-12 18:21:56.949 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-12 18:21:58.520 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-12 18:21:58.586 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-12 18:22:00.658 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-12 18:22:03.349 [Test worker] Log - Navigating url for again clicking on sign in
+Method passed LoginTest
+[INFO ] 2021-07-12 18:22:04.274 [Test worker] Log - Test is passed
+[INFO ] 2021-07-12 18:22:04.548 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-12 18:22:04.552 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-12 18:22:06.283 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-12 18:22:06.353 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-12 18:22:08.427 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-12 18:22:14.106 [Test worker] Log - Clicking on me button
+[INFO ] 2021-07-12 18:22:14.195 [Test worker] Log - Clicking on sign out button
+Method passed LoginTest
+[INFO ] 2021-07-12 18:22:16.544 [Test worker] Log - Test is passed
+[INFO ] 2021-07-12 18:22:16.723 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-12 18:22:16.733 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-12 18:22:18.364 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-12 18:22:18.437 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-12 18:22:20.679 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-12 18:22:23.417 [Test worker] Log - Navigating url for again clicking on sign in
+Method passed LoginTest
+[INFO ] 2021-07-12 18:22:24.448 [Test worker] Log - Test is passed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
