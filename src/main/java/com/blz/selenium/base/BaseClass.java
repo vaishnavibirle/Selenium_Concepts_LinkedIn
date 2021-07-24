@@ -20,20 +20,20 @@ public class BaseClass {
     public static WebDriver driver;
 
     @Feature("BrowserName and url for starting test")
-//    @Parameters({"browserName","url"})
+    @Parameters({"browserName","url"})
     @Description("Used setUp method for setting the browser")
     @Severity(SeverityLevel.CRITICAL)
     @Story("Navigating to url : https://www.linkedin.com")
     @BeforeTest
-    public void setUp() throws InterruptedException {
-        WebDriverManager.chromedriver().setup();
-//        driver = CrossBrowser.crossBrowser(browserName);
+    public void setUp(String browserName,String url) throws InterruptedException {
+//        WebDriverManager.chromedriver().setup();
+        driver = CrossBrowser.crossBrowser(browserName);
         Log.info("Test is starting");
         Log.info("chrome is starting");
         driver = new ChromeDriver();
         Log.info("navigating to url : https://www.linkedin.com/");
-//        driver.get(url);
-        driver.get("https://www.linkedin.com/");
+        driver.get(url);
+//        driver.get("https://www.linkedin.com/");
         driver.manage().window().maximize();
         Log.info("Launched the web application.");
         Thread.sleep(5000);

@@ -19,21 +19,21 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class CrossBrowser extends BaseClass {
     public static WebDriver crossBrowser(String browserName){
 
-        if(browserName.equalsIgnoreCase("chrome"))
-        {
-            WebDriverManager.chromedriver().setup();
-            driver = new ChromeDriver();
-        }
-        else if(browserName.equalsIgnoreCase("Firefox"))
-        {
-            WebDriverManager.firefoxdriver().setup();
-            driver = new FirefoxDriver();
-        }
-        else if(browserName.equalsIgnoreCase("edge")){
-            WebDriverManager.edgedriver().setup();
-            driver = new EdgeDriver();
-
-        }
-        return driver;
+    if(browserName.equalsIgnoreCase("chrome"))
+    {
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
     }
+    else if(browserName.equalsIgnoreCase("Firefox"))
+    {
+        WebDriverManager.firefoxdriver().setup();
+        driver = new FirefoxDriver();
+    }
+    else if(browserName.equalsIgnoreCase("edge")){
+        WebDriverManager.edgedriver().setup();
+        driver = new EdgeDriver();
+
+    }
+    return driver;
+}
 }
