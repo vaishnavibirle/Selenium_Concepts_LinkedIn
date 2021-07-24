@@ -38,3 +38,96 @@
 [INFO ] 2021-07-24 13:32:44.191 [main] Log - Browser is closed
 [INFO ] 2021-07-24 13:32:45.208 [main] Log - Test is ended
 [INFO ] 2021-07-24 13:32:45.210 [main] Log - C:/Users/irg/IdeaProjects/DataDriven_Demo/src/testTest is finished
+[INFO ] 2021-07-24 13:36:51.023 [main] Log - Test is starting
+[INFO ] 2021-07-24 13:36:51.030 [main] Log - chrome is starting
+[INFO ] 2021-07-24 13:36:53.821 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-24 13:37:30.284 [main] Log - LoginTestTest is starting
+[WARN ] 2021-07-24 13:37:30.295 [main] Log - LoginTestTest is skipped
+[INFO ] 2021-07-24 13:37:30.302 [main] Log - LoginTestTest is starting
+[WARN ] 2021-07-24 13:37:30.317 [main] Log - LoginTestTest is skipped
+[INFO ] 2021-07-24 13:37:30.323 [main] Log - LoginTestTest is starting
+[WARN ] 2021-07-24 13:37:30.331 [main] Log - LoginTestTest is skipped
+[INFO ] 2021-07-24 13:37:30.340 [main] Log - LoginTestTest is starting
+[WARN ] 2021-07-24 13:37:30.348 [main] Log - LoginTestTest is skipped
+[INFO ] 2021-07-24 13:37:30.360 [main] Log - C:/Users/irg/IdeaProjects/DataDriven_Demo/src/testTest is finished
+[INFO ] 2021-07-24 13:39:05.493 [main] Log - Test is starting
+[INFO ] 2021-07-24 13:39:05.509 [main] Log - chrome is starting
+[INFO ] 2021-07-24 13:39:07.975 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-24 13:39:34.660 [main] Log - Launched the web application.
+[INFO ] 2021-07-24 13:39:41.531 [main] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 13:39:41.687 [main] Log - clicking sign in button
+[INFO ] 2021-07-24 13:39:52.444 [main] Log - Sending email or username in input_box
+[INFO ] 2021-07-24 13:39:52.568 [main] Log - sending password in input_box
+[INFO ] 2021-07-24 13:39:54.714 [main] Log - Clicking on sign in and logging into application
+[WARN ] 2021-07-24 13:44:50.450 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:44:50.942 [main] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 13:44:50.943 [main] Log - clicking sign in button
+[WARN ] 2021-07-24 13:44:51.329 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:44:51.592 [main] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 13:44:51.598 [main] Log - clicking sign in button
+[WARN ] 2021-07-24 13:44:51.977 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:44:52.331 [main] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 13:44:52.339 [main] Log - clicking sign in button
+[WARN ] 2021-07-24 13:44:52.736 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:44:53.090 [main] Log - Browser is closed
+[INFO ] 2021-07-24 13:44:53.985 [main] Log - Test is ended
+[INFO ] 2021-07-24 13:44:53.986 [main] Log - C:/Users/irg/IdeaProjects/DataDriven_Demo/src/testTest is finished
+[INFO ] 2021-07-24 14:01:25.176 [Test worker] Log - Test is starting
+[INFO ] 2021-07-24 14:01:25.182 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-24 14:01:27.701 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-24 14:01:29.970 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-24 14:01:36.858 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:01:37.004 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-24 14:01:40.469 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-24 14:01:40.712 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-24 14:01:42.984 [Test worker] Log - Clicking on sign in and logging into application
+[WARN ] 2021-07-24 14:01:56.254 [Test worker] Log - Test is failed
+[INFO ] 2021-07-24 14:01:56.988 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:01:56.997 [Test worker] Log - clicking sign in button
+[WARN ] 2021-07-24 14:01:57.575 [Test worker] Log - Test is failed
+[INFO ] 2021-07-24 14:01:58.167 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:01:58.184 [Test worker] Log - clicking sign in button
+[WARN ] 2021-07-24 14:01:58.715 [Test worker] Log - Test is failed
+[INFO ] 2021-07-24 14:01:59.178 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:01:59.189 [Test worker] Log - clicking sign in button
+[WARN ] 2021-07-24 14:01:59.689 [Test worker] Log - Test is failed
+[INFO ] 2021-07-24 14:02:00.220 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-24 14:02:01.039 [Test worker] Log - Test is ended
+[INFO ] 2021-07-24 14:02:01.039 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-24 14:04:00.607 [Test worker] Log - Test is starting
+[INFO ] 2021-07-24 14:04:00.614 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-24 14:04:03.312 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-24 14:04:04.944 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-24 14:04:11.925 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:04:12.055 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-24 14:04:14.910 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-24 14:04:15.120 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-24 14:04:17.375 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-24 14:04:46.135 [Test worker] Log - Clicking on me button
+[INFO ] 2021-07-24 14:04:46.327 [Test worker] Log - Clicking on sign out button
+[INFO ] 2021-07-24 14:04:52.122 [Test worker] Log - Test is passed
+[INFO ] 2021-07-24 14:04:53.148 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:04:53.162 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-24 14:04:55.421 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-24 14:04:55.804 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-24 14:04:58.185 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-24 14:05:01.464 [Test worker] Log - Navigating url for again clicking on sign in
+[INFO ] 2021-07-24 14:05:02.992 [Test worker] Log - Test is passed
+[INFO ] 2021-07-24 14:05:03.430 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:05:03.444 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-24 14:05:05.298 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-24 14:05:05.505 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-24 14:05:07.724 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-24 14:05:20.620 [Test worker] Log - Clicking on me button
+[INFO ] 2021-07-24 14:05:20.806 [Test worker] Log - Clicking on sign out button
+[INFO ] 2021-07-24 14:05:24.086 [Test worker] Log - Test is passed
+[INFO ] 2021-07-24 14:05:24.747 [Test worker] Log - LoginTestTest is starting
+[INFO ] 2021-07-24 14:05:24.764 [Test worker] Log - clicking sign in button
+[INFO ] 2021-07-24 14:05:26.893 [Test worker] Log - Sending email or username in input_box
+[INFO ] 2021-07-24 14:05:27.064 [Test worker] Log - sending password in input_box
+[INFO ] 2021-07-24 14:05:29.518 [Test worker] Log - Clicking on sign in and logging into application
+[INFO ] 2021-07-24 14:05:32.721 [Test worker] Log - Navigating url for again clicking on sign in
+[INFO ] 2021-07-24 14:05:34.627 [Test worker] Log - Test is passed
+[INFO ] 2021-07-24 14:05:35.097 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-24 14:05:35.978 [Test worker] Log - Test is ended
+[INFO ] 2021-07-24 14:05:35.983 [Test worker] Log - Gradle testTest is finished
